@@ -1,0 +1,23 @@
+{
+  "class_types": [
+    "none",
+    "dontcare",
+    "copy_value",
+    "inform"
+  ],
+  "slots": [
+    "date",
+    "movie",
+    "time",
+    "num_tickets",
+    "theatre_name"
+  ],
+  "slot_desc": {
+    "date": "date",
+    "movie": "movie name",
+    "time": "time",
+    "num_tickets": "number of tickets",
+    "theatre_name": "theatre name"
+  },
+  "label_maps": {}
+}

@@ -1,0 +1,7503 @@
+time,6:00 pm
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+num_tickets,5
+movie,a man called ove
+time,10:00 pm
+num_tickets,5
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+movie,a man called ove
+time,10:00 pm
+num_tickets,5
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+movie,a man called ove
+time,10:00 pm
+num_tickets,5
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+movie,a man called ove
+time,10:00 pm
+num_tickets,5
+theatre_name,cinelux almaden cafe & lounge
+time,6:00 pm
+theatre_name,camera 7
+time,6:00 pm
+theatre_name,camera 7
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+movie,a man called ove
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+theatre_name,amc saratoga 14
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,amc saratoga 14
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,amc saratoga 14
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,amc saratoga 14
+date,wednesday
+movie,a man called ove
+theatre_name,century 25 union city and xd
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,century 25 union city and xd
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,century 25 union city and xd
+date,wednesday
+movie,a man called ove
+time,6:00 pm
+num_tickets,3
+theatre_name,century 25 union city and xd
+num_tickets,6
+theatre_name,amc newpark 12
+date,wednesday
+movie,12 angry men
+time,8:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+date,wednesday
+movie,12 angry men
+time,8:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+time,10:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,tomorrow
+movie,12 angry men
+time,10:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,tomorrow
+movie,12 angry men
+time,10:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,tomorrow
+movie,12 angry men
+time,10:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,wednesday
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+time,4:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+time,4:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+theatre_name,cinelux almaden cafe & lounge
+movie,12 angry men
+time,8:00 pm
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+theatre_name,cinelux almaden cafe & lounge
+movie,12 angry men
+time,8:00 pm
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+time,4:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,12 angry men
+time,4:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+theatre_name,century cinemas 16
+date,tuesday
+movie,12 angry men
+time,6:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,tuesday
+movie,12 angry men
+time,6:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,tuesday
+movie,12 angry men
+time,6:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+num_tickets,6
+theatre_name,amc newpark 12
+date,wednesday
+movie,12 angry men
+time,8:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+date,wednesday
+movie,12 angry men
+time,8:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+movie,achcham yenbadhu madamaiyada
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,4:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,4:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,4:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+num_tickets,6
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+theatre_name,century at pacific commons
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,tomorrow
+movie,achcham yenbadhu madamaiyada
+num_tickets,3
+date,tomorrow
+movie,achcham yenbadhu madamaiyada
+time,8:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+date,tomorrow
+movie,achcham yenbadhu madamaiyada
+time,8:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+date,tomorrow
+movie,achcham yenbadhu madamaiyada
+time,8:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+date,wednesday
+time,6:00 pm
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,achcham yenbadhu madamaiyada
+time,6:00 pm
+num_tickets,2
+theatre_name,cinearts @ santana row
+movie,american pastoral
+movie,american pastoral
+time,6:00 pm
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,american pastoral
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,american pastoral
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,american pastoral
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,tuesday
+movie,american pastoral
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,tuesday
+movie,american pastoral
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,tuesday
+movie,american pastoral
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,wednesday
+date,wednesday
+movie,american pastoral
+time,6:00 pm
+num_tickets,2
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,american pastoral
+time,6:00 pm
+num_tickets,2
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,american pastoral
+time,6:00 pm
+num_tickets,2
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,american pastoral
+time,6:00 pm
+num_tickets,2
+theatre_name,cinearts @ santana row
+time,8:00 pm
+date,tomorrow
+movie,american pastoral
+time,8:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+date,tomorrow
+movie,american pastoral
+time,8:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+date,tomorrow
+movie,american pastoral
+time,8:00 pm
+num_tickets,3
+theatre_name,amc cupertino square 16
+date,tonight
+movie,aquarius
+time,4:00 pm
+date,tonight
+movie,aquarius
+time,4:00 pm
+num_tickets,4
+theatre_name,amc mercado 20
+date,tonight
+movie,aquarius
+time,4:00 pm
+num_tickets,4
+theatre_name,amc mercado 20
+date,tonight
+movie,aquarius
+time,4:00 pm
+num_tickets,4
+theatre_name,amc mercado 20
+date,tonight
+movie,aquarius
+time,4:00 pm
+num_tickets,4
+theatre_name,amc mercado 20
+date,wednesday
+movie,aquarius
+time,6:00 pm
+date,wednesday
+movie,aquarius
+time,6:00 pm
+num_tickets,2
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,aquarius
+time,6:00 pm
+num_tickets,2
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,aquarius
+time,6:00 pm
+num_tickets,2
+theatre_name,amc cupertino square 16
+movie,aquarius
+theatre_name,century 25 union city and xd
+date,tuesday
+movie,aquarius
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+date,tuesday
+movie,aquarius
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+date,tuesday
+movie,aquarius
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+date,wednesday
+movie,aquarius
+num_tickets,2
+theatre_name,amc newpark 12
+date,wednesday
+movie,aquarius
+time,6:00 pm
+num_tickets,2
+theatre_name,amc newpark 12
+date,wednesday
+movie,aquarius
+time,6:00 pm
+num_tickets,2
+theatre_name,amc newpark 12
+date,wednesday
+movie,aquarius
+time,6:00 pm
+num_tickets,2
+theatre_name,amc newpark 12
+movie,avatar
+num_tickets,1
+movie,avatar
+num_tickets,1
+date,saturday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,avatar
+num_tickets,3
+date,today
+movie,avatar
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,avatar
+time,2 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,avatar
+time,2 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,avatar
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,avatar
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,avatar
+movie,avatar
+time,dontcare
+date,tomorrow
+movie,avatar
+time,dontcare
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,avatar
+time,8.30 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,avatar
+time,8.30 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+time,dontcare
+num_tickets,3
+theatre_name,the stanford theater
+time,dontcare
+num_tickets,3
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,dontcare
+num_tickets,3
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,dontcare
+num_tickets,3
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,8.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,8.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,avatar
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,aquarius
+movie,avatar
+theatre_name,aquarius
+movie,avatar
+theatre_name,aquarius
+movie,avatar
+theatre_name,aquarius
+movie,avatar
+time,8 pm
+theatre_name,aquarius
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+movie,avatar
+theatre_name,amc mercado
+movie,avatar
+num_tickets,1
+theatre_name,amc mercado
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+date,sunday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,avatar
+movie,avatar
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+date,saturday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+date,saturday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+date,saturday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+movie,avatar
+movie,avatar
+num_tickets,2
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+time,12 pm
+num_tickets,2
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+time,12 pm
+num_tickets,2
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+time,7 pm
+num_tickets,2
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+time,7 pm
+num_tickets,2
+theatre_name,aquarius
+movie,avatar
+theatre_name,aquarius
+date,sunday
+movie,avatar
+time,12 pm
+num_tickets,2
+theatre_name,aquarius
+date,sunday
+movie,avatar
+time,7.30 pm
+num_tickets,2
+theatre_name,aquarius
+date,sunday
+movie,avatar
+time,7.30 pm
+num_tickets,2
+theatre_name,aquarius
+movie,avatar
+theatre_name,lincoln square cinemas
+movie,avatar
+theatre_name,lincoln square cinemas
+movie,avatar
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,today
+movie,avatar
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,today
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,today
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+movie,avatar
+num_tickets,1
+movie,avatar
+num_tickets,1
+date,saturday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,avatar
+time,12 pm
+theatre_name,shoreline theater
+date,today
+movie,avatar
+time,12 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,today
+movie,avatar
+time,12 pm
+num_tickets,2
+theatre_name,shoreline theater
+movie,avatar
+movie,avatar
+num_tickets,3
+theatre_name,angelika
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,next monday
+movie,avatar
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,avatar
+theatre_name,aquarius
+date,today
+movie,avatar
+time,2 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,avatar
+time,2 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,avatar
+time,6.30 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,avatar
+time,6.30 pm
+num_tickets,2
+theatre_name,aquarius
+movie,avatar
+movie,avatar
+num_tickets,2
+movie,avatar
+num_tickets,2
+date,sunday
+movie,avatar
+num_tickets,2
+theatre_name,angelika
+date,sunday
+movie,avatar
+time,2 pm
+num_tickets,2
+theatre_name,angelika
+date,sunday
+movie,avatar
+time,2 pm
+num_tickets,2
+theatre_name,angelika
+movie,avatar
+theatre_name,amc mercado
+movie,avatar
+num_tickets,2
+theatre_name,amc mercado
+date,tonight
+movie,avatar
+time,dontcare
+num_tickets,2
+theatre_name,amc mercado
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,2
+theatre_name,amc mercado
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,avatar
+theatre_name,the stanford theater
+date,saturday
+movie,avatar
+theatre_name,the stanford theater
+date,saturday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,saturday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,saturday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,avatar
+theatre_name,amc mercado
+movie,avatar
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,avatar
+time,12 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,avatar
+theatre_name,amc mercado
+date,next monday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+date,next monday
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,amc mercado
+date,next monday
+movie,avatar
+time,6.30 pm
+num_tickets,1
+theatre_name,amc mercado
+date,next monday
+movie,avatar
+time,6.30 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,avatar
+num_tickets,3
+theatre_name,aquarius
+movie,avatar
+num_tickets,3
+theatre_name,aquarius
+date,tomorrow
+movie,avatar
+time,1 pm
+num_tickets,3
+theatre_name,aquarius
+date,tomorrow
+movie,avatar
+time,1 pm
+num_tickets,3
+theatre_name,aquarius
+date,tomorrow
+movie,avatar
+time,1 pm
+num_tickets,3
+theatre_name,aquarius
+date,saturday
+num_tickets,1
+theatre_name,shoreline theater
+date,saturday
+movie,avatar
+num_tickets,1
+theatre_name,shoreline theater
+date,saturday
+movie,avatar
+time,dontcare
+num_tickets,1
+theatre_name,shoreline theater
+date,saturday
+movie,avatar
+time,6.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,saturday
+movie,avatar
+time,6.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,avatar
+movie,avatar
+movie,avatar
+theatre_name,the stanford theater
+date,today
+movie,avatar
+theatre_name,the stanford theater
+date,today
+movie,avatar
+num_tickets,3
+theatre_name,the stanford theater
+date,today
+movie,avatar
+time,2 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,today
+movie,avatar
+time,2 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,today
+movie,avatar
+time,7.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,today
+movie,avatar
+time,7.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,avatar
+date,sunday
+movie,avatar
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,avatar
+theatre_name,aquarius
+date,next monday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+date,next monday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+movie,avatar
+theatre_name,amc mercado
+date,saturday
+movie,avatar
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,amc mercado
+movie,avatar
+theatre_name,the stanford theater
+movie,avatar
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,8 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,next monday
+movie,avatar
+time,8 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,avatar
+theatre_name,the stanford theater
+movie,avatar
+num_tickets,3
+theatre_name,the stanford theater
+movie,avatar
+num_tickets,3
+theatre_name,the stanford theater
+date,friday
+movie,avatar
+time,12 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,friday
+movie,avatar
+time,8.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,friday
+movie,avatar
+time,8.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,avatar
+theatre_name,shoreline theater
+movie,avatar
+theatre_name,shoreline theater
+movie,avatar
+num_tickets,1
+theatre_name,shoreline theater
+date,today
+movie,avatar
+time,12 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,today
+movie,avatar
+time,12 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,today
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,today
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,avatar
+date,tonight
+movie,avatar
+num_tickets,1
+date,tonight
+movie,avatar
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,6.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,6.15 pm
+num_tickets,1
+theatre_name,aquarius
+movie,avatar
+theatre_name,the stanford theater
+movie,avatar
+theatre_name,the stanford theater
+date,tonight
+movie,avatar
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,avatar
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,avatar
+time,dontcare
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,avatar
+time,dontcare
+num_tickets,3
+theatre_name,the stanford theater
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+num_tickets,2
+time,1 pm
+num_tickets,2
+time,1 pm
+num_tickets,2
+date,sunday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,avatar
+theatre_name,amc mercado
+movie,avatar
+num_tickets,1
+theatre_name,amc mercado
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+date,sunday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,avatar
+theatre_name,aquarius
+date,sunday
+movie,avatar
+num_tickets,1
+theatre_name,aquarius
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,aquarius
+num_tickets,2
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,avatar
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+theatre_name,angelika
+theatre_name,angelika
+theatre_name,angelika
+date,today
+movie,avatar
+num_tickets,3
+theatre_name,angelika
+date,today
+movie,avatar
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,avatar
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,avatar
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+time,dontcare
+date,saturday
+movie,avatar
+time,dontcare
+theatre_name,angelika
+date,saturday
+movie,avatar
+time,dontcare
+num_tickets,1
+theatre_name,angelika
+date,saturday
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+date,saturday
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+movie,avatar
+date,wednesday
+movie,avatar
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+movie,avatar
+movie,avatar
+movie,avatar
+num_tickets,1
+theatre_name,aquarius
+date,tomorrow
+movie,avatar
+time,2 pm
+num_tickets,1
+theatre_name,aquarius
+date,tomorrow
+movie,avatar
+time,6.30 pm
+num_tickets,1
+theatre_name,aquarius
+date,tomorrow
+movie,avatar
+time,6.30 pm
+num_tickets,1
+theatre_name,aquarius
+movie,avatar
+date,sunday
+movie,avatar
+time,2 pm
+theatre_name,amc mercado
+date,sunday
+movie,avatar
+time,2 pm
+num_tickets,3
+theatre_name,amc mercado
+date,sunday
+movie,avatar
+time,2 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,avatar
+theatre_name,amc mercado
+movie,avatar
+num_tickets,1
+theatre_name,amc mercado
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+date,sunday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+num_tickets,1
+date,tonight
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+theatre_name,angelika
+movie,avatar
+num_tickets,2
+theatre_name,angelika
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,angelika
+movie,avatar
+date,wednesday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,wednesday
+movie,avatar
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,tomorrow
+movie,avatar
+theatre_name,shoreline theater
+date,tomorrow
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,1 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,2 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,2 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,avatar
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,6.30 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,6.30 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,avatar
+movie,avatar
+num_tickets,2
+theatre_name,shoreline theater
+date,saturday
+movie,avatar
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,saturday
+movie,avatar
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,2 pm
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,2 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,6.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,avatar
+time,6.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+movie,avatar
+movie,avatar
+date,tonight
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,angelika
+date,tonight
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,angelika
+date,tonight
+movie,avatar
+time,7.15 pm
+num_tickets,1
+theatre_name,angelika
+movie,avatar
+theatre_name,amc mercado
+date,tonight
+movie,avatar
+theatre_name,amc mercado
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+date,tonight
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,avatar
+theatre_name,angelika
+date,sunday
+movie,avatar
+num_tickets,3
+theatre_name,angelika
+date,sunday
+movie,avatar
+num_tickets,3
+theatre_name,angelika
+date,sunday
+movie,avatar
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,sunday
+movie,avatar
+time,7.30 pm
+num_tickets,3
+theatre_name,angelika
+date,sunday
+movie,avatar
+time,7.30 pm
+num_tickets,3
+theatre_name,angelika
+movie,avatar
+theatre_name,angelika
+movie,avatar
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,avatar
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,dontcare
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,avatar
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+movie,avatar
+theatre_name,angelika
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+date,saturday
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+movie,avatar
+theatre_name,angelika
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+date,saturday
+movie,avatar
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+movie,avatar
+theatre_name,the stanford theater
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,sunday
+movie,avatar
+time,7.15 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+num_tickets,6
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,tonight
+movie,boo! a madea halloween
+num_tickets,4
+date,tonight
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,tonight
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,tonight
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,boo! a madea halloween
+num_tickets,4
+theatre_name,amc saratoga 14
+date,wednesday
+movie,boo! a madea halloween
+time,8:00 pm
+num_tickets,4
+theatre_name,amc saratoga 14
+date,wednesday
+movie,boo! a madea halloween
+time,8:00 pm
+num_tickets,4
+theatre_name,amc saratoga 14
+date,wednesday
+movie,boo! a madea halloween
+time,8:00 pm
+num_tickets,4
+theatre_name,amc saratoga 14
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,saturday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,saturday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,saturday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,saturday
+movie,boo! a madea halloween
+num_tickets,6
+date,saturday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc saratoga 14
+date,saturday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc saratoga 14
+date,saturday
+movie,boo! a madea halloween
+time,6:00 pm
+num_tickets,6
+theatre_name,amc saratoga 14
+time,8:00 pm
+num_tickets,4
+date,wednesday
+movie,boo! a madea halloween
+time,8:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,boo! a madea halloween
+time,8:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,boo! a madea halloween
+time,8:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+num_tickets,6
+date,wednesday
+movie,certain women
+time,6:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+date,wednesday
+movie,certain women
+time,6:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+date,wednesday
+movie,certain women
+time,6:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+movie,certain women
+num_tickets,6
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,wednesday
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,certain women
+num_tickets,4
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,4
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,4
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,4
+theatre_name,amc cupertino square 16
+movie,certain women
+time,4:00 pm
+movie,certain women
+time,4:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,certain women
+time,4:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,certain women
+time,4:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,certain women
+time,4:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+date,wednesday
+movie,certain women
+theatre_name,century cinemas 16
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+movie,certain women
+movie,certain women
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,certain women
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+movie,certain women
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,certain women
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,certain women
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,certain women
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,certain women
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+movie,deepwater horizon
+movie,deepwater horizon
+movie,deepwater horizon
+theatre_name,aquarius
+movie,deepwater horizon
+theatre_name,aquarius
+movie,deepwater horizon
+num_tickets,3
+theatre_name,aquarius
+movie,deepwater horizon
+num_tickets,3
+theatre_name,aquarius
+movie,deepwater horizon
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,tonight
+movie,deepwater horizon
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,tonight
+movie,deepwater horizon
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,tonight
+movie,deepwater horizon
+time,6 pm
+num_tickets,3
+theatre_name,aquarius
+date,tonight
+movie,deepwater horizon
+time,6 pm
+num_tickets,3
+theatre_name,aquarius
+movie,deepwater horizon
+theatre_name,angelika
+movie,deepwater horizon
+theatre_name,angelika
+date,saturday
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,angelika
+date,saturday
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,angelika
+movie,deepwater horizon
+movie,deepwater horizon
+num_tickets,1
+theatre_name,aquarius
+date,next monday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,next monday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,next monday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,next monday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,tomorrow
+time,dontcare
+date,tomorrow
+time,dontcare
+num_tickets,1
+theatre_name,shoreline theater
+date,tomorrow
+movie,deepwater horizon
+time,dontcare
+num_tickets,1
+theatre_name,shoreline theater
+date,tomorrow
+movie,deepwater horizon
+time,6.30 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,tomorrow
+movie,deepwater horizon
+time,6.30 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,deepwater horizon
+movie,deepwater horizon
+date,tonight
+movie,deepwater horizon
+time,6 pm
+num_tickets,3
+date,tonight
+movie,deepwater horizon
+time,6 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,tonight
+movie,deepwater horizon
+time,5 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,tonight
+movie,deepwater horizon
+time,5 pm
+num_tickets,3
+theatre_name,shoreline theater
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,deepwater horizon
+time,7 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,deepwater horizon
+time,7 pm
+num_tickets,3
+theatre_name,amc mercado
+date,sunday
+movie,deepwater horizon
+theatre_name,shoreline theater
+date,sunday
+movie,deepwater horizon
+theatre_name,shoreline theater
+date,sunday
+movie,deepwater horizon
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,deepwater horizon
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,deepwater horizon
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,deepwater horizon
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,deepwater horizon
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,deepwater horizon
+theatre_name,the stanford theater
+movie,deepwater horizon
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+time,6 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+time,7.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+time,7.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,deepwater horizon
+movie,deepwater horizon
+theatre_name,angelika
+movie,deepwater horizon
+theatre_name,angelika
+date,saturday
+movie,deepwater horizon
+num_tickets,2
+theatre_name,angelika
+date,saturday
+movie,deepwater horizon
+time,dontcare
+num_tickets,2
+theatre_name,angelika
+date,saturday
+movie,deepwater horizon
+time,6.30 pm
+num_tickets,2
+theatre_name,angelika
+date,saturday
+movie,deepwater horizon
+time,6.30 pm
+num_tickets,2
+theatre_name,angelika
+num_tickets,6
+movie,deepwater horizon
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,tuesday
+movie,deepwater horizon
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,tuesday
+movie,deepwater horizon
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,tuesday
+movie,deepwater horizon
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+movie,deepwater horizon
+movie,deepwater horizon
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+num_tickets,2
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,2 pm
+num_tickets,2
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,amc mercado
+movie,deepwater horizon
+theatre_name,the stanford theater
+movie,deepwater horizon
+theatre_name,the stanford theater
+date,next monday
+movie,deepwater horizon
+theatre_name,the stanford theater
+date,next monday
+movie,deepwater horizon
+theatre_name,the stanford theater
+date,next monday
+movie,deepwater horizon
+num_tickets,2
+theatre_name,the stanford theater
+date,next monday
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,next monday
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,next monday
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,the stanford theater
+movie,deepwater horizon
+movie,deepwater horizon
+num_tickets,3
+movie,deepwater horizon
+num_tickets,3
+date,sunday
+movie,deepwater horizon
+time,6 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,sunday
+movie,deepwater horizon
+time,6 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,sunday
+movie,deepwater horizon
+time,6 pm
+num_tickets,3
+theatre_name,shoreline theater
+num_tickets,1
+movie,deepwater horizon
+time,1 pm
+num_tickets,1
+date,today
+movie,deepwater horizon
+time,1 pm
+num_tickets,1
+date,today
+movie,deepwater horizon
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,today
+movie,deepwater horizon
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,today
+movie,deepwater horizon
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+movie,deepwater horizon
+movie,deepwater horizon
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,deepwater horizon
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,deepwater horizon
+movie,deepwater horizon
+date,sunday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,sunday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,sunday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,deepwater horizon
+date,sunday
+movie,deepwater horizon
+time,8 pm
+theatre_name,angelika
+date,sunday
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,angelika
+date,sunday
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,angelika
+date,sunday
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,angelika
+movie,deepwater horizon
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,saturday
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,saturday
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,saturday
+movie,deepwater horizon
+time,7 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,saturday
+movie,deepwater horizon
+time,7 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,deepwater horizon
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+time,1 pm
+movie,deepwater horizon
+time,1 pm
+theatre_name,the stanford theater
+movie,deepwater horizon
+time,1 pm
+theatre_name,the stanford theater
+date,next monday
+movie,deepwater horizon
+time,1 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,next monday
+movie,deepwater horizon
+time,1 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,deepwater horizon
+movie,deepwater horizon
+date,tonight
+movie,deepwater horizon
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+time,8 pm
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,tonight
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,the stanford theater
+movie,deepwater horizon
+theatre_name,lincoln square cinemas
+movie,deepwater horizon
+theatre_name,lincoln square cinemas
+date,tonight
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,tonight
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,deepwater horizon
+date,tonight
+movie,deepwater horizon
+time,8 pm
+theatre_name,shoreline theater
+date,tonight
+movie,deepwater horizon
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,tonight
+movie,deepwater horizon
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,deepwater horizon
+date,saturday
+movie,deepwater horizon
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,dontcare
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,dontcare
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,dontcare
+num_tickets,2
+theatre_name,amc mercado
+movie,deepwater horizon
+movie,deepwater horizon
+num_tickets,3
+theatre_name,aquarius
+date,tonight
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,aquarius
+date,tonight
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,aquarius
+date,sunday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,aquarius
+date,sunday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,aquarius
+date,sunday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,aquarius
+movie,deepwater horizon
+theatre_name,shoreline theater
+movie,deepwater horizon
+theatre_name,shoreline theater
+date,tonight
+movie,deepwater horizon
+theatre_name,shoreline theater
+date,tonight
+movie,deepwater horizon
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,tonight
+movie,deepwater horizon
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,deepwater horizon
+theatre_name,shoreline theater
+date,today
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,today
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,today
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,shoreline theater
+movie,deepwater horizon
+theatre_name,amc mercado
+date,next monday
+movie,deepwater horizon
+time,1 pm
+num_tickets,3
+theatre_name,amc mercado
+date,next monday
+movie,deepwater horizon
+time,1 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,deepwater horizon
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,2
+theatre_name,amc mercado
+movie,deepwater horizon
+date,wednesday
+movie,deepwater horizon
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+movie,deepwater horizon
+date,next monday
+movie,deepwater horizon
+num_tickets,2
+date,next monday
+movie,deepwater horizon
+num_tickets,2
+theatre_name,shoreline theater
+date,next monday
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,next monday
+movie,deepwater horizon
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,today
+movie,deepwater horizon
+theatre_name,the stanford theater
+date,today
+movie,deepwater horizon
+time,2 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,today
+movie,deepwater horizon
+time,6.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,today
+movie,deepwater horizon
+time,6.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,deepwater horizon
+theatre_name,aquarius
+movie,deepwater horizon
+time,8 pm
+theatre_name,aquarius
+movie,deepwater horizon
+time,8 pm
+num_tickets,3
+theatre_name,aquarius
+date,friday
+movie,deepwater horizon
+time,8 pm
+num_tickets,3
+theatre_name,aquarius
+date,next monday
+movie,deepwater horizon
+time,8 pm
+num_tickets,3
+theatre_name,aquarius
+date,next monday
+movie,deepwater horizon
+time,8 pm
+num_tickets,3
+theatre_name,aquarius
+date,next monday
+movie,deepwater horizon
+time,8 pm
+num_tickets,3
+theatre_name,aquarius
+time,1 pm
+theatre_name,the stanford theater
+date,today
+movie,deepwater horizon
+time,1 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,today
+movie,deepwater horizon
+time,2 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,today
+movie,deepwater horizon
+time,5 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,today
+movie,deepwater horizon
+time,5 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,deepwater horizon
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,deepwater horizon
+time,dontcare
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,deepwater horizon
+time,dontcare
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,deepwater horizon
+time,dontcare
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,deepwater horizon
+time,dontcare
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,deepwater horizon
+theatre_name,lincoln square cinemas
+date,saturday
+movie,deepwater horizon
+time,2 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,saturday
+movie,deepwater horizon
+time,5 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,saturday
+movie,deepwater horizon
+time,5 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+num_tickets,1
+movie,deepwater horizon
+num_tickets,1
+movie,deepwater horizon
+num_tickets,1
+theatre_name,shoreline theater
+movie,deepwater horizon
+time,2 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,next monday
+movie,deepwater horizon
+time,2 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,next monday
+movie,deepwater horizon
+time,6.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,next monday
+movie,deepwater horizon
+time,6.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,deepwater horizon
+theatre_name,lincoln square cinemas
+movie,deepwater horizon
+theatre_name,lincoln square cinemas
+date,today
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,deepwater horizon
+movie,deepwater horizon
+date,wednesday
+movie,deepwater horizon
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,deepwater horizon
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,deepwater horizon
+theatre_name,amc mercado
+date,tomorrow
+movie,deepwater horizon
+num_tickets,1
+theatre_name,amc mercado
+date,tomorrow
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tomorrow
+movie,deepwater horizon
+time,2 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tomorrow
+movie,deepwater horizon
+time,7 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tomorrow
+movie,deepwater horizon
+time,7 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,deepwater horizon
+movie,deepwater horizon
+time,12 pm
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,12 pm
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,6.15 pm
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,deepwater horizon
+time,6.15 pm
+num_tickets,2
+theatre_name,amc mercado
+date,tomorrow
+date,tomorrow
+movie,deepwater horizon
+time,8:00 pm
+num_tickets,3
+theatre_name,cinearts @ santana row
+date,tomorrow
+movie,deepwater horizon
+time,8:00 pm
+num_tickets,3
+theatre_name,cinearts @ santana row
+date,tomorrow
+movie,deepwater horizon
+time,8:00 pm
+num_tickets,3
+theatre_name,cinearts @ santana row
+num_tickets,6
+date,saturday
+movie,deepwater horizon
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,saturday
+movie,deepwater horizon
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,saturday
+movie,deepwater horizon
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+time,6:00 pm
+date,wednesday
+movie,deepwater horizon
+time,6:00 pm
+theatre_name,camera 7
+date,wednesday
+movie,deepwater horizon
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,deepwater horizon
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,deepwater horizon
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+theatre_name,amc mercado
+theatre_name,amc mercado
+time,12 pm
+num_tickets,2
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,12 pm
+num_tickets,2
+theatre_name,amc mercado
+date,friday
+movie,deepwater horizon
+time,12 pm
+num_tickets,2
+theatre_name,amc mercado
+date,tomorrow
+time,8:00 pm
+num_tickets,3
+date,tomorrow
+movie,deepwater horizon
+time,8:00 pm
+num_tickets,3
+theatre_name,century cinemas 16
+date,tomorrow
+movie,deepwater horizon
+time,8:00 pm
+num_tickets,3
+theatre_name,century cinemas 16
+date,tomorrow
+movie,deepwater horizon
+time,8:00 pm
+num_tickets,3
+theatre_name,century cinemas 16
+movie,deepwater horizon
+movie,deepwater horizon
+time,7.15 pm
+date,sunday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,saturday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,saturday
+movie,deepwater horizon
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+time,8:00 pm
+num_tickets,5
+theatre_name,century 20 great mall
+date,tuesday
+movie,desierto
+time,8:00 pm
+num_tickets,5
+theatre_name,century 20 great mall
+date,tuesday
+movie,desierto
+time,8:00 pm
+num_tickets,5
+theatre_name,century 20 great mall
+date,tuesday
+movie,desierto
+time,8:00 pm
+num_tickets,5
+theatre_name,century 20 great mall
+date,wednesday
+movie,doctor strange
+theatre_name,angelika
+date,wednesday
+movie,doctor strange
+time,dontcare
+num_tickets,2
+theatre_name,angelika
+date,wednesday
+movie,doctor strange
+time,6 pm
+num_tickets,2
+theatre_name,angelika
+date,wednesday
+movie,doctor strange
+time,6 pm
+num_tickets,2
+theatre_name,angelika
+theatre_name,shoreline theater
+movie,doctor strange
+theatre_name,shoreline theater
+movie,doctor strange
+time,2 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,doctor strange
+time,2 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,doctor strange
+time,6.30 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,doctor strange
+time,6.30 pm
+num_tickets,1
+theatre_name,shoreline theater
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,doctor strange
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,doctor strange
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,6.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,6.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,doctor strange
+theatre_name,angelika
+date,today
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,today
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,today
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,today
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,today
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,tonight
+num_tickets,2
+date,tonight
+movie,doctor strange
+num_tickets,2
+theatre_name,shoreline theater
+date,tonight
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,tonight
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,tonight
+movie,doctor strange
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,tonight
+movie,doctor strange
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,wednesday
+movie,doctor strange
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+num_tickets,1
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+time,dontcare
+num_tickets,1
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+time,dontcare
+num_tickets,1
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+time,dontcare
+num_tickets,1
+theatre_name,the stanford theater
+date,today
+time,12 pm
+num_tickets,2
+date,today
+movie,doctor strange
+time,12 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,today
+movie,doctor strange
+time,8.30 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,today
+movie,doctor strange
+time,8.30 pm
+num_tickets,2
+theatre_name,shoreline theater
+movie,doctor strange
+movie,doctor strange
+date,today
+movie,doctor strange
+theatre_name,the stanford theater
+date,today
+movie,doctor strange
+theatre_name,the stanford theater
+date,today
+movie,doctor strange
+num_tickets,1
+theatre_name,the stanford theater
+date,today
+movie,doctor strange
+time,2 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,today
+movie,doctor strange
+time,6.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,today
+movie,doctor strange
+time,6.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,sunday
+date,sunday
+date,sunday
+theatre_name,angelika
+date,sunday
+theatre_name,angelika
+date,sunday
+num_tickets,2
+theatre_name,angelika
+date,sunday
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,angelika
+date,sunday
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,angelika
+date,sunday
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,angelika
+movie,doctor strange
+theatre_name,angelika
+movie,doctor strange
+theatre_name,angelika
+date,friday
+movie,doctor strange
+time,12 pm
+num_tickets,2
+theatre_name,angelika
+date,friday
+movie,doctor strange
+time,7.30 pm
+num_tickets,2
+theatre_name,angelika
+date,friday
+movie,doctor strange
+time,7.30 pm
+num_tickets,2
+theatre_name,angelika
+movie,doctor strange
+theatre_name,the stanford theater
+date,tonight
+movie,doctor strange
+theatre_name,the stanford theater
+date,tonight
+movie,doctor strange
+time,dontcare
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,doctor strange
+time,5 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,tonight
+movie,doctor strange
+time,5 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,doctor strange
+date,friday
+movie,doctor strange
+num_tickets,3
+theatre_name,shoreline theater
+date,friday
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,friday
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,friday
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+theatre_name,angelika
+date,tomorrow
+movie,doctor strange
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,doctor strange
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,doctor strange
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+num_tickets,1
+theatre_name,the stanford theater
+movie,doctor strange
+num_tickets,1
+theatre_name,the stanford theater
+movie,doctor strange
+time,1 pm
+num_tickets,1
+theatre_name,the stanford theater
+num_tickets,3
+num_tickets,3
+num_tickets,3
+theatre_name,the stanford theater
+num_tickets,3
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+time,12 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,wednesday
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,next monday
+movie,doctor strange
+time,1 pm
+theatre_name,lincoln square cinemas
+date,next monday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,doctor strange
+time,12 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,doctor strange
+theatre_name,amc mercado
+date,friday
+movie,doctor strange
+time,6 pm
+num_tickets,2
+theatre_name,amc mercado
+date,friday
+movie,doctor strange
+time,6 pm
+num_tickets,2
+theatre_name,amc mercado
+date,friday
+movie,doctor strange
+time,5 pm
+num_tickets,2
+theatre_name,amc mercado
+date,friday
+movie,doctor strange
+time,5 pm
+num_tickets,2
+theatre_name,amc mercado
+num_tickets,3
+num_tickets,3
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+date,tonight
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+date,tonight
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+movie,doctor strange
+movie,doctor strange
+movie,doctor strange
+num_tickets,3
+movie,doctor strange
+num_tickets,3
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+num_tickets,3
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,wednesday
+movie,doctor strange
+time,1 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,doctor strange
+num_tickets,3
+theatre_name,shoreline theater
+date,friday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,friday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,friday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,friday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,shoreline theater
+movie,doctor strange
+theatre_name,lincoln square cinemas
+date,tonight
+movie,doctor strange
+time,8 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,doctor strange
+time,8 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,doctor strange
+time,8 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+movie,doctor strange
+date,tonight
+movie,doctor strange
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,tonight
+movie,doctor strange
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,doctor strange
+time,8:00 pm
+theatre_name,century cinemas 16
+date,wednesday
+movie,doctor strange
+time,8:00 pm
+num_tickets,4
+theatre_name,century cinemas 16
+date,wednesday
+movie,doctor strange
+time,8:00 pm
+num_tickets,4
+theatre_name,century cinemas 16
+date,wednesday
+movie,doctor strange
+time,8:00 pm
+num_tickets,4
+theatre_name,century cinemas 16
+date,sunday
+movie,doctor strange
+theatre_name,lincoln square cinemas
+date,sunday
+movie,doctor strange
+time,1 pm
+theatre_name,lincoln square cinemas
+date,sunday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,sunday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,doctor strange
+time,1 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,doctor strange
+time,6 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,doctor strange
+time,6.30 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,doctor strange
+time,6.30 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,doctor strange
+theatre_name,angelika
+movie,doctor strange
+num_tickets,3
+theatre_name,angelika
+movie,doctor strange
+time,dontcare
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,doctor strange
+time,dontcare
+num_tickets,3
+theatre_name,angelika
+date,next monday
+movie,doctor strange
+time,dontcare
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,doctor strange
+time,dontcare
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,doctor strange
+time,dontcare
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,doctor strange
+time,8.30 pm
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,doctor strange
+time,8.30 pm
+num_tickets,3
+theatre_name,angelika
+movie,doctor strange
+theatre_name,aquarius
+date,wednesday
+movie,doctor strange
+theatre_name,aquarius
+date,wednesday
+movie,doctor strange
+time,2 pm
+num_tickets,2
+theatre_name,aquarius
+date,wednesday
+movie,doctor strange
+time,2 pm
+num_tickets,2
+theatre_name,aquarius
+movie,doctor strange
+date,tomorrow
+movie,doctor strange
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+time,dontcare
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+time,dontcare
+num_tickets,1
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+time,6.30 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+time,6.30 pm
+num_tickets,1
+theatre_name,shoreline theater
+theatre_name,aquarius
+movie,doctor strange
+num_tickets,2
+theatre_name,aquarius
+movie,doctor strange
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,doctor strange
+time,2 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,doctor strange
+time,6 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,doctor strange
+time,6 pm
+num_tickets,2
+theatre_name,aquarius
+movie,doctor strange
+movie,doctor strange
+num_tickets,1
+date,saturday
+movie,doctor strange
+time,7.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,saturday
+movie,doctor strange
+time,7.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,saturday
+movie,doctor strange
+time,7.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,doctor strange
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+num_tickets,1
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,tomorrow
+movie,doctor strange
+time,8 pm
+num_tickets,1
+theatre_name,shoreline theater
+num_tickets,3
+movie,doctor strange
+num_tickets,3
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,3
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,3
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,3
+theatre_name,cinelux almaden cafe & lounge
+num_tickets,1
+theatre_name,the stanford theater
+movie,doctor strange
+num_tickets,1
+theatre_name,the stanford theater
+movie,doctor strange
+time,1 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,doctor strange
+movie,doctor strange
+num_tickets,1
+movie,doctor strange
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,doctor strange
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,doctor strange
+time,5 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,doctor strange
+time,5 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+date,wednesday
+theatre_name,amc mercado
+date,wednesday
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,doctor strange
+time,12 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,3
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,3
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,doctor strange
+time,6:00 pm
+num_tickets,3
+theatre_name,cinearts @ santana row
+movie,doctor strange
+theatre_name,aquarius
+date,next monday
+movie,doctor strange
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,next monday
+movie,doctor strange
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,sunday
+movie,doctor strange
+theatre_name,lincoln square cinemas
+date,sunday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,sunday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,sunday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,doctor strange
+date,saturday
+movie,doctor strange
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,6 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,6.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,saturday
+movie,doctor strange
+time,6.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,doctor strange
+theatre_name,amc mercado
+date,saturday
+movie,doctor strange
+theatre_name,amc mercado
+date,saturday
+movie,doctor strange
+time,8 pm
+num_tickets,2
+theatre_name,amc mercado
+date,saturday
+movie,doctor strange
+time,8 pm
+num_tickets,2
+theatre_name,amc mercado
+movie,doctor strange
+theatre_name,lincoln square cinemas
+movie,doctor strange
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,doctor strange
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,doctor strange
+time,12 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,doctor strange
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+num_tickets,1
+theatre_name,the stanford theater
+movie,doctor strange
+num_tickets,1
+theatre_name,the stanford theater
+movie,doctor strange
+time,1 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,wednesday
+num_tickets,2
+date,wednesday
+movie,doctor who
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+movie,doctor who
+theatre_name,camera 7
+movie,doctor who
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,tuesday
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+movie,doctor who
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+movie,doctor who
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+movie,doctor who
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,tuesday
+movie,doctor who
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+movie,doctor who
+time,6:00 pm
+theatre_name,camera 7
+movie,doctor who
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+movie,doctor who
+movie,doctor who
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,doctor who
+time,8:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,doctor who
+time,8:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,doctor who
+time,8:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+movie,doctor who
+time,6:00 pm
+date,wednesday
+movie,doctor who
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,3
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,3
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,doctor who
+time,6:00 pm
+num_tickets,3
+theatre_name,cinemark 12 downtown san mateo
+movie,from dusk till dawn
+theatre_name,cinelux plaza theatre
+date,tomorrow
+movie,from dusk till dawn
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,tomorrow
+movie,from dusk till dawn
+time,8:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,tomorrow
+movie,from dusk till dawn
+time,8:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,tomorrow
+movie,from dusk till dawn
+time,8:00 pm
+num_tickets,3
+theatre_name,cinelux plaza theatre
+date,tuesday
+date,tuesday
+movie,from dusk till dawn
+time,10:00 pm
+num_tickets,5
+theatre_name,century 20 great mall
+date,tuesday
+movie,from dusk till dawn
+time,10:00 pm
+num_tickets,5
+theatre_name,century 20 great mall
+date,tuesday
+movie,from dusk till dawn
+time,10:00 pm
+num_tickets,5
+theatre_name,century 20 great mall
+time,6:00 pm
+num_tickets,3
+theatre_name,century 20 great mall
+date,wednesday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,3
+theatre_name,century 20 great mall
+date,wednesday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,3
+theatre_name,century 20 great mall
+date,wednesday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,3
+theatre_name,century 20 great mall
+time,6:00 pm
+date,saturday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,saturday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,saturday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,from dusk till dawn
+date,wednesday
+movie,from dusk till dawn
+time,8:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,from dusk till dawn
+time,8:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,from dusk till dawn
+time,8:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+date,wednesday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,2
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,2
+theatre_name,amc cupertino square 16
+date,wednesday
+movie,from dusk till dawn
+time,6:00 pm
+num_tickets,2
+theatre_name,amc cupertino square 16
+date,wednesday
+num_tickets,6
+date,wednesday
+movie,jack reacher
+time,8:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,jack reacher
+time,8:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,jack reacher
+time,8:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+time,6:00 pm
+movie,jack reacher
+time,6:00 pm
+theatre_name,amc mercado 20
+date,wednesday
+movie,jack reacher
+time,6:00 pm
+num_tickets,3
+theatre_name,amc mercado 20
+date,wednesday
+movie,jack reacher
+time,6:00 pm
+num_tickets,3
+theatre_name,amc mercado 20
+date,wednesday
+movie,jack reacher
+time,6:00 pm
+num_tickets,3
+theatre_name,amc mercado 20
+date,tomorrow
+movie,jack reacher
+date,tomorrow
+movie,jack reacher
+time,10:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,tomorrow
+movie,jack reacher
+time,10:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,tomorrow
+movie,jack reacher
+time,10:00 pm
+num_tickets,3
+theatre_name,camera 7
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,jack reacher
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,jack reacher
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,jack reacher
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,mad max
+time,6:00 pm
+theatre_name,century cinemas 16
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+date,tuesday
+time,4:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,tuesday
+movie,mad max
+time,4:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,tuesday
+movie,mad max
+time,4:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,tuesday
+movie,mad max
+time,4:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,tonight
+date,tonight
+time,6:00 pm
+num_tickets,4
+date,tonight
+movie,mad max
+time,6:00 pm
+num_tickets,4
+theatre_name,cinelux plaza theatre
+date,tonight
+movie,mad max
+time,6:00 pm
+num_tickets,4
+theatre_name,cinelux plaza theatre
+date,tonight
+movie,mad max
+time,6:00 pm
+num_tickets,4
+theatre_name,cinelux plaza theatre
+date,wednesday
+time,6:00 pm
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+time,4:00 pm
+date,tonight
+movie,mad max
+time,4:00 pm
+date,tonight
+movie,mad max
+time,4:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,tonight
+movie,mad max
+time,4:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,tonight
+movie,mad max
+time,4:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,wednesday
+num_tickets,2
+date,wednesday
+movie,mad max
+num_tickets,2
+theatre_name,century 20 great mall
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century 20 great mall
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century 20 great mall
+date,wednesday
+movie,mad max
+time,6:00 pm
+num_tickets,2
+theatre_name,century 20 great mall
+movie,moonlight
+num_tickets,4
+movie,moonlight
+time,8:00 pm
+num_tickets,4
+theatre_name,amc saratoga 14
+date,wednesday
+movie,moonlight
+time,8:00 pm
+num_tickets,4
+theatre_name,amc saratoga 14
+date,wednesday
+movie,moonlight
+time,8:00 pm
+num_tickets,4
+theatre_name,amc saratoga 14
+date,wednesday
+movie,moonlight
+time,8:00 pm
+num_tickets,4
+theatre_name,amc saratoga 14
+date,wednesday
+movie,moonlight
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,moonlight
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,moonlight
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,moonlight
+time,6:00 pm
+num_tickets,2
+theatre_name,cinelux almaden cafe & lounge
+movie,moonlight
+time,6:00 pm
+movie,moonlight
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,moonlight
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,moonlight
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,moonlight
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+theatre_name,cinemark redwood downtown 20 and xd
+date,tuesday
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,tuesday
+movie,moonlight
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,tuesday
+movie,moonlight
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,tuesday
+movie,moonlight
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,moonlight
+time,8:00 pm
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,moonlight
+time,8:00 pm
+num_tickets,4
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,moonlight
+time,8:00 pm
+num_tickets,4
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,moonlight
+time,8:00 pm
+num_tickets,4
+theatre_name,cinelux plaza theatre
+movie,moonlight
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,tuesday
+movie,moonlight
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,tuesday
+movie,moonlight
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,tuesday
+movie,moonlight
+time,6:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,wednesday
+time,4:00 pm
+num_tickets,6
+date,wednesday
+movie,queen of katwe
+time,4:00 pm
+num_tickets,6
+date,wednesday
+movie,queen of katwe
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,queen of katwe
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+date,wednesday
+movie,queen of katwe
+time,4:00 pm
+num_tickets,6
+theatre_name,cinearts @ santana row
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,queen of katwe
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,queen of katwe
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,queen of katwe
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,wednesday
+num_tickets,6
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+num_tickets,3
+movie,queen of katwe
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,queen of katwe
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+time,8:00 pm
+num_tickets,4
+date,wednesday
+movie,queen of katwe
+time,8:00 pm
+num_tickets,4
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,queen of katwe
+time,8:00 pm
+num_tickets,4
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,queen of katwe
+time,8:00 pm
+num_tickets,4
+theatre_name,cinemark redwood downtown 20 and xd
+num_tickets,6
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+date,wednesday
+movie,sully
+theatre_name,camera 7
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,2
+theatre_name,camera 7
+num_tickets,6
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,sully
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,sully
+time,8:00 pm
+theatre_name,amc mercado 20
+date,tuesday
+movie,sully
+time,8:00 pm
+num_tickets,5
+theatre_name,amc mercado 20
+date,tuesday
+movie,sully
+time,8:00 pm
+num_tickets,5
+theatre_name,amc mercado 20
+date,tuesday
+movie,sully
+time,8:00 pm
+num_tickets,5
+theatre_name,amc mercado 20
+date,wednesday
+movie,sully
+time,8:00 pm
+time,4:00 pm
+theatre_name,amc cupertino square 16
+date,tuesday
+movie,sully
+time,4:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,tuesday
+movie,sully
+time,4:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,tuesday
+movie,sully
+time,4:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,tuesday
+movie,sully
+time,4:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+date,tuesday
+movie,sully
+time,4:00 pm
+num_tickets,6
+theatre_name,amc cupertino square 16
+movie,the accountant
+theatre_name,amc mercado
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,the accountant
+num_tickets,3
+theatre_name,angelika
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,7 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,7 pm
+num_tickets,3
+theatre_name,angelika
+date,friday
+movie,the accountant
+theatre_name,amc mercado
+date,friday
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+date,friday
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,amc mercado
+date,friday
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,the accountant
+date,wednesday
+movie,the accountant
+num_tickets,3
+theatre_name,shoreline theater
+date,wednesday
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,wednesday
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,wednesday
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,shoreline theater
+movie,the accountant
+theatre_name,shoreline theater
+movie,the accountant
+num_tickets,2
+theatre_name,shoreline theater
+movie,the accountant
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,tonight
+movie,the accountant
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,tonight
+movie,the accountant
+time,8 pm
+num_tickets,2
+theatre_name,shoreline theater
+movie,the accountant
+theatre_name,lincoln square cinemas
+movie,the accountant
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,8.30 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,8.30 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+movie,the accountant
+theatre_name,shoreline theater
+date,tonight
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,the accountant
+movie,the accountant
+num_tickets,3
+theatre_name,aquarius
+movie,the accountant
+num_tickets,3
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,6.30 pm
+num_tickets,3
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,6.30 pm
+num_tickets,3
+theatre_name,aquarius
+movie,the accountant
+theatre_name,amc mercado
+movie,the accountant
+theatre_name,amc mercado
+movie,the accountant
+num_tickets,3
+theatre_name,amc mercado
+date,friday
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+date,friday
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+date,friday
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,the accountant
+movie,the accountant
+date,next monday
+movie,the accountant
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,dontcare
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the accountant
+time,6 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the accountant
+time,6 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the accountant
+time,6 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+num_tickets,3
+movie,the accountant
+num_tickets,3
+movie,the accountant
+num_tickets,3
+theatre_name,aquarius
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,saturday
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,aquarius
+date,sunday
+num_tickets,1
+date,sunday
+num_tickets,1
+date,sunday
+movie,the accountant
+num_tickets,1
+theatre_name,angelika
+date,sunday
+movie,the accountant
+num_tickets,1
+theatre_name,angelika
+date,sunday
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,angelika
+date,sunday
+movie,the accountant
+time,12 pm
+num_tickets,1
+theatre_name,angelika
+date,sunday
+movie,the accountant
+time,7 pm
+num_tickets,1
+theatre_name,angelika
+date,sunday
+movie,the accountant
+time,7 pm
+num_tickets,1
+theatre_name,angelika
+movie,the accountant
+movie,the accountant
+date,friday
+movie,the accountant
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,the accountant
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,the accountant
+time,dontcare
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,the accountant
+time,7 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,the accountant
+time,7 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,the accountant
+time,1 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,today
+movie,the accountant
+time,1 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,today
+movie,the accountant
+time,1 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,wednesday
+time,12 pm
+date,wednesday
+time,12 pm
+num_tickets,1
+date,wednesday
+time,12 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,the accountant
+time,12 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,the accountant
+time,12 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,the accountant
+time,5 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,wednesday
+movie,the accountant
+time,5 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,the accountant
+theatre_name,the stanford theater
+date,tomorrow
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,tomorrow
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,tomorrow
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,tomorrow
+movie,the accountant
+time,7 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,tomorrow
+movie,the accountant
+time,7 pm
+num_tickets,3
+theatre_name,the stanford theater
+movie,the accountant
+movie,the accountant
+movie,the accountant
+time,6 pm
+theatre_name,lincoln square cinemas
+date,sunday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,sunday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,sunday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+movie,the accountant
+theatre_name,shoreline theater
+theatre_name,lincoln square cinemas
+theatre_name,lincoln square cinemas
+movie,the accountant
+theatre_name,lincoln square cinemas
+movie,the accountant
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,7.15 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,sunday
+movie,the accountant
+theatre_name,lincoln square cinemas
+date,sunday
+movie,the accountant
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,sunday
+movie,the accountant
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,sunday
+movie,the accountant
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,sunday
+movie,the accountant
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+num_tickets,3
+theatre_name,amc mercado
+date,tonight
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,amc mercado
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,amc mercado
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,the accountant
+movie,the accountant
+num_tickets,2
+theatre_name,the stanford theater
+date,wednesday
+movie,the accountant
+time,2 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,wednesday
+movie,the accountant
+time,2 pm
+num_tickets,2
+theatre_name,the stanford theater
+movie,the accountant
+movie,the accountant
+num_tickets,1
+movie,the accountant
+num_tickets,1
+theatre_name,lincoln square cinemas
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,next monday
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,saturday
+movie,the accountant
+theatre_name,angelika
+date,saturday
+movie,the accountant
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,8 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,8 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,2 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,7 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,7 pm
+num_tickets,3
+theatre_name,angelika
+movie,the accountant
+date,wednesday
+movie,the accountant
+time,1 pm
+date,wednesday
+movie,the accountant
+time,1 pm
+theatre_name,angelika
+date,wednesday
+movie,the accountant
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,today
+movie,the accountant
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,today
+movie,the accountant
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,today
+movie,the accountant
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+movie,the accountant
+date,tomorrow
+movie,the accountant
+time,1 pm
+num_tickets,3
+date,tomorrow
+movie,the accountant
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the accountant
+time,1 pm
+num_tickets,3
+theatre_name,angelika
+movie,the accountant
+date,saturday
+movie,the accountant
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,5 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,5 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the accountant
+time,1 pm
+theatre_name,shoreline theater
+date,tomorrow
+movie,the accountant
+time,1 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,tomorrow
+movie,the accountant
+time,1 pm
+num_tickets,3
+theatre_name,shoreline theater
+time,2 pm
+num_tickets,2
+date,today
+movie,the accountant
+time,2 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,today
+movie,the accountant
+time,2 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,today
+movie,the accountant
+time,12 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,today
+movie,the accountant
+time,12 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,today
+movie,the accountant
+time,dontcare
+num_tickets,2
+theatre_name,the stanford theater
+date,today
+movie,the accountant
+time,dontcare
+num_tickets,2
+theatre_name,the stanford theater
+date,today
+movie,the accountant
+time,dontcare
+num_tickets,2
+theatre_name,the stanford theater
+date,today
+movie,the accountant
+time,7 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,today
+movie,the accountant
+time,7 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,saturday
+theatre_name,amc mercado
+date,saturday
+theatre_name,amc mercado
+date,saturday
+theatre_name,amc mercado
+date,saturday
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the accountant
+time,dontcare
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the accountant
+time,dontcare
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the accountant
+time,dontcare
+num_tickets,1
+theatre_name,amc mercado
+date,tuesday
+theatre_name,cinelux plaza theatre
+date,tuesday
+movie,the accountant
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,tuesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,tuesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,tuesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+movie,the accountant
+num_tickets,3
+theatre_name,amc mercado
+date,tomorrow
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,amc mercado
+date,tomorrow
+movie,the accountant
+time,8 pm
+num_tickets,3
+theatre_name,amc mercado
+date,tomorrow
+movie,the accountant
+time,8 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,the accountant
+date,wednesday
+movie,the accountant
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,the accountant
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,the accountant
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,the accountant
+time,8:00 pm
+num_tickets,6
+theatre_name,cinelux almaden cafe & lounge
+movie,the accountant
+theatre_name,shoreline theater
+movie,the accountant
+date,tonight
+movie,the accountant
+time,7.15 pm
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,7.15 pm
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,the accountant
+theatre_name,amc mercado
+movie,the accountant
+theatre_name,amc mercado
+movie,the accountant
+num_tickets,3
+theatre_name,amc mercado
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,amc mercado
+date,tonight
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,amc mercado
+date,next monday
+movie,the accountant
+time,dontcare
+num_tickets,3
+theatre_name,amc mercado
+date,next monday
+movie,the accountant
+time,6.30 pm
+num_tickets,3
+theatre_name,amc mercado
+date,next monday
+movie,the accountant
+time,6.30 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,the accountant
+num_tickets,3
+theatre_name,angelika
+movie,the accountant
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the accountant
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the accountant
+time,8.30 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the accountant
+time,8.30 pm
+num_tickets,3
+theatre_name,angelika
+movie,the accountant
+movie,the accountant
+time,6 pm
+movie,the accountant
+time,6 pm
+movie,the accountant
+time,6 pm
+num_tickets,2
+date,tonight
+movie,the accountant
+time,6 pm
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,the accountant
+time,7 pm
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,the accountant
+time,7 pm
+num_tickets,2
+theatre_name,aquarius
+movie,the accountant
+theatre_name,lincoln square cinemas
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,the accountant
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,the accountant
+theatre_name,lincoln square cinemas
+movie,the accountant
+theatre_name,lincoln square cinemas
+movie,the accountant
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,6.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the accountant
+time,6.15 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+movie,the accountant
+movie,the accountant
+num_tickets,1
+theatre_name,angelika
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,the accountant
+time,12 pm
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,the accountant
+time,12 pm
+num_tickets,1
+theatre_name,angelika
+movie,the accountant
+theatre_name,shoreline theater
+movie,the accountant
+theatre_name,shoreline theater
+movie,the accountant
+time,1 pm
+theatre_name,shoreline theater
+movie,the accountant
+time,1 pm
+theatre_name,shoreline theater
+movie,the accountant
+time,1 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,friday
+movie,the accountant
+time,1 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,friday
+movie,the accountant
+time,1 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,tonight
+num_tickets,4
+date,tonight
+time,4:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,tonight
+movie,the accountant
+time,4:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,tonight
+movie,the accountant
+time,4:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,tonight
+movie,the accountant
+time,4:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,friday
+movie,the accountant
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,12 pm
+num_tickets,1
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,5 pm
+num_tickets,1
+theatre_name,aquarius
+date,friday
+movie,the accountant
+time,5 pm
+num_tickets,1
+theatre_name,aquarius
+movie,the accountant
+num_tickets,2
+movie,the accountant
+time,6 pm
+num_tickets,2
+date,saturday
+movie,the accountant
+time,6 pm
+num_tickets,2
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,6.15 pm
+num_tickets,2
+theatre_name,angelika
+date,saturday
+movie,the accountant
+time,6.15 pm
+num_tickets,2
+theatre_name,angelika
+movie,the accountant
+theatre_name,lincoln square cinemas
+movie,the accountant
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the accountant
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the accountant
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the accountant
+time,12 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the accountant
+time,8.30 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the accountant
+time,8.30 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,the accountant
+movie,the accountant
+theatre_name,angelika
+date,friday
+movie,the accountant
+theatre_name,angelika
+date,friday
+movie,the accountant
+num_tickets,1
+theatre_name,angelika
+date,friday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+date,friday
+movie,the accountant
+time,8 pm
+num_tickets,1
+theatre_name,angelika
+date,friday
+movie,the accountant
+time,8 pm
+num_tickets,1
+theatre_name,angelika
+movie,the accountant
+movie,the accountant
+theatre_name,shoreline theater
+movie,the accountant
+theatre_name,shoreline theater
+date,saturday
+movie,the accountant
+num_tickets,3
+theatre_name,shoreline theater
+date,saturday
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,saturday
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,shoreline theater
+date,saturday
+movie,the accountant
+time,6 pm
+num_tickets,3
+theatre_name,shoreline theater
+movie,the accountant
+theatre_name,amc mercado
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tonight
+movie,the accountant
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,the accountant
+theatre_name,aquarius
+date,saturday
+movie,the accountant
+time,dontcare
+theatre_name,aquarius
+date,saturday
+movie,the accountant
+time,dontcare
+num_tickets,1
+theatre_name,aquarius
+date,saturday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,aquarius
+date,saturday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,aquarius
+theatre_name,shoreline theater
+theatre_name,shoreline theater
+time,6 pm
+theatre_name,shoreline theater
+time,6 pm
+theatre_name,shoreline theater
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,friday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,friday
+movie,the accountant
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,friday
+movie,the accountant
+time,5 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,friday
+movie,the accountant
+time,5 pm
+num_tickets,1
+theatre_name,shoreline theater
+theatre_name,cinelux plaza theatre
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+date,wednesday
+movie,the accountant
+time,6:00 pm
+num_tickets,6
+theatre_name,cinelux plaza theatre
+movie,the eagle huntress
+movie,the eagle huntress
+time,8:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,wednesday
+movie,the eagle huntress
+time,8:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,wednesday
+movie,the eagle huntress
+time,8:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,wednesday
+movie,the eagle huntress
+time,8:00 pm
+num_tickets,4
+theatre_name,amc newpark 12
+date,tuesday
+date,tuesday
+movie,the eagle huntress
+theatre_name,amc mercado 20
+date,tuesday
+movie,the eagle huntress
+time,4:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+date,tuesday
+movie,the eagle huntress
+time,4:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+date,tuesday
+movie,the eagle huntress
+time,4:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+time,6:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,6
+theatre_name,century cinemas 16
+date,wednesday
+movie,the eagle huntress
+time,8:00 pm
+date,wednesday
+movie,the eagle huntress
+time,8:00 pm
+num_tickets,4
+theatre_name,camera 7
+date,wednesday
+movie,the eagle huntress
+time,8:00 pm
+num_tickets,4
+theatre_name,camera 7
+date,wednesday
+movie,the eagle huntress
+time,8:00 pm
+num_tickets,4
+theatre_name,camera 7
+time,6:00 pm
+theatre_name,camera 7
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,3
+theatre_name,camera 7
+num_tickets,5
+date,tuesday
+movie,the eagle huntress
+time,10:00 pm
+num_tickets,5
+theatre_name,cinelux plaza theatre
+date,tuesday
+movie,the eagle huntress
+time,10:00 pm
+num_tickets,5
+theatre_name,cinelux plaza theatre
+num_tickets,4
+date,tonight
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,tonight
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,tonight
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+date,tonight
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,4
+theatre_name,cinemark 12 downtown san mateo
+num_tickets,5
+date,tuesday
+movie,the eagle huntress
+time,10:00 pm
+num_tickets,5
+theatre_name,cinelux plaza theatre
+date,tuesday
+movie,the eagle huntress
+time,10:00 pm
+num_tickets,5
+theatre_name,cinelux plaza theatre
+theatre_name,century at pacific commons
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+date,wednesday
+movie,the eagle huntress
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+date,tonight
+movie,the girl on the train
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,6 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,6.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,6.15 pm
+num_tickets,1
+theatre_name,aquarius
+movie,the girl on the train
+theatre_name,angelika
+movie,the girl on the train
+time,8 pm
+theatre_name,angelika
+date,next monday
+movie,the girl on the train
+time,8 pm
+num_tickets,3
+theatre_name,angelika
+date,next monday
+movie,the girl on the train
+time,8 pm
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+time,6 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+time,6 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+time,2 pm
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+time,5 pm
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+time,5 pm
+num_tickets,1
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+time,5 pm
+num_tickets,1
+theatre_name,angelika
+date,sunday
+movie,the girl on the train
+theatre_name,shoreline theater
+date,sunday
+movie,the girl on the train
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,the girl on the train
+time,6 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+date,sunday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,shoreline theater
+movie,the girl on the train
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,next monday
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,angelika
+date,next monday
+movie,the girl on the train
+time,6 pm
+num_tickets,1
+theatre_name,angelika
+date,next monday
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,angelika
+date,next monday
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,angelika
+movie,the girl on the train
+movie,the girl on the train
+num_tickets,2
+date,friday
+movie,the girl on the train
+num_tickets,2
+date,friday
+movie,the girl on the train
+num_tickets,2
+date,friday
+movie,the girl on the train
+num_tickets,2
+date,friday
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+time,dontcare
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+time,dontcare
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+time,7 pm
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+time,7 pm
+num_tickets,2
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+theatre_name,amc mercado
+date,tomorrow
+movie,the girl on the train
+time,12 pm
+num_tickets,3
+theatre_name,amc mercado
+date,tomorrow
+movie,the girl on the train
+time,7.30 pm
+num_tickets,3
+theatre_name,amc mercado
+date,tomorrow
+movie,the girl on the train
+time,7.30 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,the girl on the train
+time,8:00 pm
+num_tickets,3
+theatre_name,century at pacific commons
+date,tomorrow
+movie,the girl on the train
+time,8:00 pm
+num_tickets,3
+theatre_name,century at pacific commons
+date,tomorrow
+movie,the girl on the train
+time,8:00 pm
+num_tickets,3
+theatre_name,century at pacific commons
+date,tomorrow
+movie,the girl on the train
+time,8:00 pm
+num_tickets,3
+theatre_name,century at pacific commons
+movie,the girl on the train
+num_tickets,3
+movie,the girl on the train
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,the girl on the train
+time,6 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,the girl on the train
+time,1 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,the girl on the train
+time,1 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,the girl on the train
+theatre_name,amc mercado
+movie,the girl on the train
+theatre_name,amc mercado
+movie,the girl on the train
+num_tickets,1
+theatre_name,amc mercado
+movie,the girl on the train
+num_tickets,1
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+time,2 pm
+num_tickets,1
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+time,2 pm
+num_tickets,1
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+time,6.30 pm
+num_tickets,1
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+time,6.30 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,the girl on the train
+date,today
+movie,the girl on the train
+date,today
+movie,the girl on the train
+time,2 pm
+num_tickets,3
+theatre_name,angelika
+date,today
+movie,the girl on the train
+time,2 pm
+num_tickets,3
+theatre_name,angelika
+num_tickets,1
+num_tickets,1
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,friday
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,the girl on the train
+time,12 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,the girl on the train
+time,12 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,the girl on the train
+date,sunday
+movie,the girl on the train
+time,12 pm
+theatre_name,amc mercado
+date,sunday
+movie,the girl on the train
+time,12 pm
+num_tickets,2
+theatre_name,amc mercado
+date,sunday
+movie,the girl on the train
+time,12 pm
+num_tickets,2
+theatre_name,amc mercado
+date,sunday
+movie,the girl on the train
+time,8.30 pm
+num_tickets,2
+theatre_name,amc mercado
+date,sunday
+movie,the girl on the train
+time,8.30 pm
+num_tickets,2
+theatre_name,amc mercado
+movie,the girl on the train
+movie,the girl on the train
+movie,the girl on the train
+movie,the girl on the train
+date,friday
+movie,the girl on the train
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,the girl on the train
+time,8.30 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,friday
+movie,the girl on the train
+time,8.30 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+num_tickets,1
+movie,the girl on the train
+time,dontcare
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the girl on the train
+time,dontcare
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the girl on the train
+time,dontcare
+num_tickets,1
+theatre_name,amc mercado
+movie,the girl on the train
+movie,the girl on the train
+movie,the girl on the train
+num_tickets,1
+theatre_name,the stanford theater
+date,tonight
+movie,the girl on the train
+num_tickets,1
+theatre_name,the stanford theater
+date,tonight
+movie,the girl on the train
+time,dontcare
+num_tickets,1
+theatre_name,the stanford theater
+date,saturday
+movie,the girl on the train
+time,dontcare
+num_tickets,1
+theatre_name,the stanford theater
+date,saturday
+movie,the girl on the train
+time,7 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,saturday
+movie,the girl on the train
+time,7 pm
+num_tickets,1
+theatre_name,the stanford theater
+time,1 pm
+time,1 pm
+theatre_name,aquarius
+time,1 pm
+theatre_name,aquarius
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+movie,the girl on the train
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+movie,the girl on the train
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+time,1 pm
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+time,6 pm
+num_tickets,2
+theatre_name,aquarius
+date,friday
+movie,the girl on the train
+time,6 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,the girl on the train
+theatre_name,the stanford theater
+date,today
+movie,the girl on the train
+theatre_name,the stanford theater
+date,today
+movie,the girl on the train
+time,2 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,today
+movie,the girl on the train
+time,8.30 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,today
+movie,the girl on the train
+time,8.30 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,the girl on the train
+theatre_name,angelika
+date,tomorrow
+movie,the girl on the train
+time,8 pm
+theatre_name,angelika
+date,tomorrow
+movie,the girl on the train
+time,8 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the girl on the train
+time,8 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the girl on the train
+time,8 pm
+num_tickets,3
+theatre_name,angelika
+movie,the girl on the train
+theatre_name,amc mercado
+movie,the girl on the train
+theatre_name,amc mercado
+date,wednesday
+movie,the girl on the train
+time,1 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,the girl on the train
+time,1 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,3
+theatre_name,amc mercado
+date,wednesday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,3
+theatre_name,amc mercado
+movie,the girl on the train
+date,saturday
+movie,the girl on the train
+time,dontcare
+theatre_name,angelika
+date,saturday
+movie,the girl on the train
+time,dontcare
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the girl on the train
+time,6.15 pm
+num_tickets,3
+theatre_name,angelika
+date,saturday
+movie,the girl on the train
+time,6.15 pm
+num_tickets,3
+theatre_name,angelika
+movie,the girl on the train
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the girl on the train
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the girl on the train
+time,2 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the girl on the train
+time,5 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the girl on the train
+time,5 pm
+num_tickets,2
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+date,wednesday
+movie,the girl on the train
+time,6 pm
+num_tickets,3
+theatre_name,angelika
+movie,the girl on the train
+movie,the girl on the train
+theatre_name,aquarius
+movie,the girl on the train
+theatre_name,aquarius
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+theatre_name,amc mercado
+movie,the girl on the train
+time,12 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,the girl on the train
+time,12 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,the girl on the train
+time,5 pm
+num_tickets,1
+theatre_name,amc mercado
+date,today
+movie,the girl on the train
+time,5 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,the girl on the train
+theatre_name,the stanford theater
+movie,the girl on the train
+theatre_name,the stanford theater
+movie,the girl on the train
+theatre_name,the stanford theater
+movie,the girl on the train
+num_tickets,2
+theatre_name,the stanford theater
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,the stanford theater
+movie,the girl on the train
+movie,the girl on the train
+theatre_name,shoreline theater
+date,next monday
+movie,the girl on the train
+num_tickets,2
+theatre_name,shoreline theater
+date,next monday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+date,next monday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,shoreline theater
+movie,the girl on the train
+theatre_name,the stanford theater
+movie,the girl on the train
+time,8 pm
+theatre_name,the stanford theater
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,the stanford theater
+date,tuesday
+time,10:00 pm
+theatre_name,amc mercado 20
+date,tuesday
+movie,the girl on the train
+time,10:00 pm
+num_tickets,5
+theatre_name,amc mercado 20
+date,tuesday
+movie,the girl on the train
+time,10:00 pm
+num_tickets,5
+theatre_name,amc mercado 20
+date,tuesday
+movie,the girl on the train
+time,10:00 pm
+num_tickets,5
+theatre_name,amc mercado 20
+movie,the girl on the train
+theatre_name,the stanford theater
+movie,the girl on the train
+theatre_name,the stanford theater
+movie,the girl on the train
+num_tickets,1
+theatre_name,the stanford theater
+movie,the girl on the train
+num_tickets,1
+theatre_name,the stanford theater
+date,tomorrow
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,tomorrow
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,the girl on the train
+time,1 pm
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the girl on the train
+time,1 pm
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the girl on the train
+time,2 pm
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+date,saturday
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,the girl on the train
+date,wednesday
+movie,the girl on the train
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,the girl on the train
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,the girl on the train
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,the girl on the train
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+date,wednesday
+movie,the girl on the train
+time,6:00 pm
+num_tickets,6
+theatre_name,cinemark redwood downtown 20 and xd
+movie,the girl on the train
+date,tomorrow
+movie,the girl on the train
+time,2 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the girl on the train
+time,2 pm
+num_tickets,3
+theatre_name,angelika
+date,tomorrow
+movie,the girl on the train
+time,2 pm
+num_tickets,3
+theatre_name,angelika
+movie,the girl on the train
+theatre_name,aquarius
+movie,the girl on the train
+time,2 pm
+theatre_name,aquarius
+movie,the girl on the train
+time,2 pm
+num_tickets,1
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+time,2 pm
+num_tickets,1
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+time,6.15 pm
+num_tickets,1
+theatre_name,aquarius
+date,tomorrow
+movie,the girl on the train
+time,6.15 pm
+num_tickets,1
+theatre_name,aquarius
+movie,the girl on the train
+date,friday
+movie,the girl on the train
+time,7.15 pm
+date,friday
+movie,the girl on the train
+time,7.15 pm
+theatre_name,angelika
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,3
+theatre_name,angelika
+movie,the girl on the train
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+num_tickets,3
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+num_tickets,3
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+time,dontcare
+num_tickets,3
+theatre_name,amc mercado
+date,next monday
+movie,the girl on the train
+time,dontcare
+num_tickets,3
+theatre_name,amc mercado
+movie,the girl on the train
+movie,the girl on the train
+date,today
+movie,the girl on the train
+time,12 pm
+theatre_name,aquarius
+date,today
+movie,the girl on the train
+time,12 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,the girl on the train
+time,12 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,the girl on the train
+time,8.30 pm
+num_tickets,2
+theatre_name,aquarius
+date,today
+movie,the girl on the train
+time,8.30 pm
+num_tickets,2
+theatre_name,aquarius
+movie,the girl on the train
+movie,the girl on the train
+movie,the girl on the train
+movie,the girl on the train
+theatre_name,angelika
+date,next monday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,angelika
+date,next monday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,2
+theatre_name,angelika
+movie,the girl on the train
+movie,the girl on the train
+date,next monday
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,next monday
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,next monday
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,next monday
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,next monday
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+movie,the girl on the train
+date,tonight
+movie,the girl on the train
+time,6 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tonight
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+date,tonight
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,amc mercado
+movie,the girl on the train
+movie,the girl on the train
+movie,the girl on the train
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+time,2 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+theatre_name,the stanford theater
+movie,the girl on the train
+theatre_name,the stanford theater
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,next monday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+date,friday
+movie,the girl on the train
+time,7.15 pm
+num_tickets,1
+theatre_name,the stanford theater
+theatre_name,century cinemas 16
+date,wednesday
+movie,the girl on the train
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+date,wednesday
+movie,the girl on the train
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+date,wednesday
+movie,the girl on the train
+time,6:00 pm
+num_tickets,2
+theatre_name,century cinemas 16
+movie,the girl on the train
+date,tonight
+movie,the girl on the train
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+time,8 pm
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,1
+theatre_name,aquarius
+date,today
+movie,the girl on the train
+time,1 pm
+theatre_name,lincoln square cinemas
+date,today
+movie,the girl on the train
+time,1 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+date,today
+movie,the girl on the train
+time,1 pm
+num_tickets,3
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+date,saturday
+movie,the girl on the train
+theatre_name,aquarius
+date,saturday
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,saturday
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,saturday
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,saturday
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+movie,the girl on the train
+movie,the girl on the train
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the girl on the train
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the girl on the train
+time,5 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tomorrow
+movie,the girl on the train
+time,5 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+theatre_name,angelika
+date,tonight
+movie,the girl on the train
+time,dontcare
+num_tickets,2
+theatre_name,angelika
+date,tonight
+movie,the girl on the train
+time,dontcare
+num_tickets,2
+theatre_name,angelika
+date,tonight
+movie,the girl on the train
+theatre_name,lincoln square cinemas
+movie,the girl on the train
+theatre_name,the stanford theater
+date,saturday
+movie,the girl on the train
+theatre_name,the stanford theater
+date,saturday
+movie,the girl on the train
+time,6 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,saturday
+movie,the girl on the train
+time,7.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,saturday
+movie,the girl on the train
+time,7.30 pm
+num_tickets,3
+theatre_name,the stanford theater
+date,wednesday
+movie,the girl on the train
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+time,6 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+time,6.30 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,wednesday
+movie,the girl on the train
+time,6.30 pm
+num_tickets,1
+theatre_name,lincoln square cinemas
+date,tonight
+movie,the girl on the train
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+date,tonight
+movie,the girl on the train
+time,8 pm
+num_tickets,2
+theatre_name,aquarius
+time,6:00 pm
+theatre_name,century at pacific commons
+date,wednesday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+date,wednesday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+date,wednesday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,2
+theatre_name,century at pacific commons
+theatre_name,century at pacific commons
+date,wednesday
+num_tickets,4
+theatre_name,century at pacific commons
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,century at pacific commons
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,century at pacific commons
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,century at pacific commons
+date,wednesday
+time,8:00 pm
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,century at pacific commons
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,century at pacific commons
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,century at pacific commons
+time,6:00 pm
+date,saturday
+movie,the handmaiden
+time,6:00 pm
+theatre_name,camera 7
+date,saturday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,saturday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,saturday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,wednesday
+movie,the handmaiden
+theatre_name,century 25 union city and xd
+date,wednesday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+date,wednesday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+date,wednesday
+movie,the handmaiden
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+time,8:00 pm
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+movie,the handmaiden
+time,8:00 pm
+num_tickets,4
+theatre_name,cinelux almaden cafe & lounge
+date,tomorrow
+theatre_name,cinelux almaden cafe & lounge
+date,tomorrow
+movie,the magnificent seven
+time,10:00 pm
+num_tickets,3
+theatre_name,cinelux almaden cafe & lounge
+date,tomorrow
+movie,the magnificent seven
+time,10:00 pm
+num_tickets,3
+theatre_name,cinelux almaden cafe & lounge
+date,tomorrow
+movie,the magnificent seven
+time,10:00 pm
+num_tickets,3
+theatre_name,cinelux almaden cafe & lounge
+date,wednesday
+date,wednesday
+date,wednesday
+movie,the magnificent seven
+time,4:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+date,wednesday
+movie,the magnificent seven
+time,4:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+date,wednesday
+movie,the magnificent seven
+time,4:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+movie,the magnificent seven
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,the magnificent seven
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,the magnificent seven
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+movie,the magnificent seven
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,the magnificent seven
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,wednesday
+movie,the magnificent seven
+time,8:00 pm
+num_tickets,6
+theatre_name,cinemark 12 downtown san mateo
+date,saturday
+time,6:00 pm
+num_tickets,6
+date,saturday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+date,saturday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+date,saturday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,6
+theatre_name,amc newpark 12
+num_tickets,6
+date,wednesday
+num_tickets,6
+theatre_name,amc mercado 20
+date,wednesday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+date,wednesday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+date,wednesday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+date,wednesday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,6
+theatre_name,amc mercado 20
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,wednesday
+movie,the magnificent seven
+time,6:00 pm
+num_tickets,3
+theatre_name,amc newpark 12
+date,saturday
+movie,trolls
+time,6:00 pm
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,century 25 union city and xd
+date,tomorrow
+movie,trolls
+theatre_name,century 20 great mall
+num_tickets,6
+theatre_name,camera 7
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+num_tickets,4
+date,tonight
+movie,trolls
+num_tickets,4
+date,tonight
+movie,trolls
+time,4:00 pm
+num_tickets,4
+theatre_name,camera 7
+date,tonight
+movie,trolls
+time,4:00 pm
+num_tickets,4
+theatre_name,camera 7
+date,tonight
+movie,trolls
+time,4:00 pm
+num_tickets,4
+theatre_name,camera 7
+time,6:00 pm
+num_tickets,6
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,saturday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,camera 7
+date,tomorrow
+movie,trolls
+theatre_name,century 20 great mall
+movie,trolls
+time,6:00 pm
+num_tickets,6
+date,wednesday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+date,wednesday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+date,wednesday
+movie,trolls
+time,6:00 pm
+num_tickets,6
+theatre_name,century 20 great mall
+date,wednesday
+time,8:00 pm
+date,wednesday
+num_tickets,4
+num_tickets,6
+date,tonight
+num_tickets,4
+date,tuesday
+theatre_name,camera 7
+date,tuesday
+theatre_name,camera 7
+date,tonight
+num_tickets,4
+time,6:00 pm

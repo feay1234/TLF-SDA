@@ -1,0 +1,31 @@
+{
+  "class_types": [
+    "none",
+    "dontcare",
+    "copy_value",
+    "inform"
+  ],
+  "slots": [
+    "category",
+    "rating",
+    "num_people",
+    "location",
+    "restaurant_name",
+    "time",
+    "date",
+    "price_range",
+    "meal"
+  ],
+  "slot_desc": {
+    "category": "category",
+    "rating": "rating",
+    "num_people": "number of people",
+    "location": "location",
+    "restaurant_name": "name",
+    "price_range": "price range",
+    "meal": "meal",
+    "time": "time",
+    "date": "data"
+  },
+  "label_maps": {}
+}
